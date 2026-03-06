@@ -9,7 +9,11 @@
 </p>
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ahmiidll/ahmiidll/blob/main/dist/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ahmiidll/ahmiidll/output/github-contribution-grid-snake.svg">
+
+</p>
 ---
 
 # 🧠 SYSTEM TERMINAL
