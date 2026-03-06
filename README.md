@@ -7,7 +7,9 @@
 <p align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700">
 </p>
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/ahmiidll/ahmiidll/blob/main/dist/github-contribution-grid-snake.svg)
 ---
 
 # 🧠 SYSTEM TERMINAL
@@ -28,6 +30,4 @@ Modern Web Development
 > status
 Building cool things on the internet
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ahmiidll/ahmiidll/blob/main/dist/github-contribution-grid-snake.svg)
