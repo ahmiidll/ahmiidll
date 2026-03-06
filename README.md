@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">⚡ Ahmad Waseem ⚡</h1>
 
-<!--
-**ahmiidll/ahmiidll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Frontend+Developer;Graphic+Designer;Open+Source+Enthusiast;Building+Next+Gen+Web+Experiences;Welcome+to+my+GitHub+Profile" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧠 SYSTEM TERMINAL
+
+```bash
+> whoami
+Ahmad Waseem
+
+> role
+Frontend Developer / UI Designer
+
+> skills
+HTML CSS JavaScript React Git
+
+> focus
+Modern Web Development
+
+> status
+Building cool things on the internet
