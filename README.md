@@ -27,3 +27,7 @@ Modern Web Development
 
 > status
 Building cool things on the internet
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ahmiidll/ahmiidll/blob/main/dist/github-contribution-grid-snake.svg)
